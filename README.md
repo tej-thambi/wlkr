@@ -1,3 +1,3 @@
 # wlkr
-wlkr is a startup developed in the summer of 2022 with the BruinLabs startup program
-This is the wlkr website
+wlkr is a pet sitting startup
+this repository is for the wlkr website
