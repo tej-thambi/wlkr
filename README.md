@@ -1,3 +1,2 @@
 # wlkr
-wlkr is a pet sitting startup
-this repository is for the wlkr website
+website for wlkr pet sitting startup
