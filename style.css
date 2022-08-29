@@ -7,9 +7,40 @@
 body{
     background-color: white;
 }
-header {
-    color: blue;
+.main-header{
+    font-size: 36px;
 }
-div {
-    color: black;
+#home-header{
+    font-size: 350px;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
+.button-div{
+    text-align: center;
+    padding: 30px;
+}
+.transition-buttons{
+    background-color: #008CFF;
+    color: white;
+}
+.section{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.spacing{
+    padding:30px;
+}
+.spacing2{
+    padding:30px;
+}
+.features {
+    display: flex;
+    justify-content: space-around;
+}
+.team-members {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
 }
