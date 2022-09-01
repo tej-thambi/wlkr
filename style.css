@@ -9,6 +9,7 @@ body{
 }
 .main-header{
     font-size: 36px;
+    margin-left: 10px;
 }
 #home-header{
     font-size: 350px;
@@ -21,8 +22,16 @@ body{
     padding: 30px;
 }
 .transition-buttons{
-    background-color: #008CFF;
-    color: white;
+    color: #008CFF;
+    background-color: white;
+    height: 75px;
+    width: 150px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.transition-buttons:hover {
+    background-color: black;
+    transition: 0.7s;
 }
 .section{
     text-align: center;
@@ -65,4 +74,5 @@ ul {
   
   li a:hover {
     background-color: black;
+    transition: 0.4s;
   }
