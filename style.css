@@ -50,7 +50,7 @@ body{
 }
 .team-members {
     display: flex;
-    text-align: center;
+    text-align: left;
     justify-content: space-around;
 }
 ul {
@@ -75,4 +75,27 @@ ul {
   li a:hover {
     background-color: black;
     transition: 0.4s;
+  }
+  #product-demo-head{
+    font-size: 24px;
+  }
+  #demo{
+    text-align: center;
+    padding-left: 20px;
+  }
+  details.team-member-description{
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    max-height: 30px;
+    overflow: hidden;
+  }
+  details[open].team-member-description{
+    max-height: 500px;
+  }
+  details[open].team-member-description summary{
+    padding-bottom:10px;
   }
