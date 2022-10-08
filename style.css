@@ -99,3 +99,65 @@ ul {
   details[open].team-member-description summary{
     padding-bottom:10px;
   }
+  .owners-button{
+    text-align: center;
+    color: #008CFF;
+    background-color: rgb(10, 10, 10);
+    height: 40px;
+    width: 200px;
+    border-radius: 40px;
+    border-color: purple;
+    float: left;
+    margin-left: 650px;
+  }
+  .sitters-button{
+    text-align: center;
+    color: #008CFF;
+    background-color: rgb(10, 10, 10);
+    height: 40px;
+    width: 200px;
+    border-radius:40px;
+    border-color: purple;
+    float: left;
+    margin-left: 650px;
+  }
+  .FAQ-page{
+    text-align: center;
+  }
+  .text-ownersFAQ{
+    text-align: center;
+    color: #008Cff;
+  }
+  .text-sittersFAQ{
+    text-align: center;
+    color: #008Cff;
+  }
+  .text-contact{
+    text-align: center;
+    color: #008Cff;
+    font-size: 25px;
+  }
+  .text-team{
+    text-align: center;
+    color: #008cff;
+    font-size: 25px;
+  }
+  .text-email{
+    color:#008CFF;
+    font-size: 15px;
+    float: right;
+    margin-right: 400px;
+  }
+  .logo-pictures{
+    text-align: center;
+    float: left;
+    margin-left: 400px;
+    height: 100px;
+    width: 100px;
+  }
+  .contact-page{
+    text-align: center;
+  }
+  .text-FAQ{
+    text-align: center;
+  }
